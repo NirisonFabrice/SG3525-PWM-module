@@ -1,0 +1,1 @@
+Tested on Proteus Design Suite 8.11
